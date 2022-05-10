@@ -8,7 +8,7 @@ I am a PhD Candidate in Finance at Stockholm School of Economics. Finishing the 
 
 ## Russian invasion of Ukraine. Data visualization in R
 
-( [code](https://github.com/hrabovskazh/war-losses/edit/main/README.md) | [slides](https://github.com/hrabovskazh/war-losses/blob/main/russian_losses.pdf) )
+( [code](https://github.com/hrabovskazh/war-losses/blob/main/README.md) | [slides](https://github.com/hrabovskazh/war-losses/blob/main/russian_losses.pdf) )
 
 I use the Kaggle dataset ([Ukraine Russia War](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war)) recording Equipment Losses & Death Toll & Military Wounded & Prisoner of War of russians since 24.02.2022.
 
