@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Yevheniia!
-I am a PhD Candidate in Finance at Stockholm School of Economics. Finishing the program in summer 2022 and open to work in Stockholm (and remotely in Europe). I have 3+ years of experience working with large datasets (registry data) but due to sensitive nature of the data, cannot display large part of the work here. Instead, here I use public datasets to present my skills in programming, data analysis, causal analysis, etc. 
+I am a PhD in Finance from Stockholm School of Economics. I have 3+ years of experience working with large datasets (registry data) but due to sensitive nature of the data, cannot display large part of the work here. Instead, here I use public datasets to present my skills in programming, data analysis, causal analysis, etc. 
 
 - 🎨Interests: financial literacy, wealth management, health economics, fashion industry, war in Ukraine.
 - 📫 How to reach me: yevheniia.hrabovska@phdstudent.hhs.se
