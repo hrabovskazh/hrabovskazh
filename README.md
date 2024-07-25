@@ -6,23 +6,3 @@ I am a PhD in Finance from Stockholm School of Economics. I have 3+ years of exp
 
 # Projects
 
-## Russian invasion of Ukraine. Data visualization in R
-
-( [code](https://github.com/hrabovskazh/war-losses/blob/main/README.md) | [slides](https://github.com/hrabovskazh/war-losses/blob/main/russian_losses.pdf) )
-
-I use the Kaggle dataset ([Ukraine Russia War](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war)) recording Equipment Losses & Death Toll & Military Wounded & Prisoner of War of russians since 24.02.2022.
-
-Plotting dynamics of equipment losses by type (e.g. aircrafts, tanks, drones, etc.) reveals the change in character of fighting prior to russian withdrawal from the Northern front (Kyiv, Sumy, Chernihiv).
-
-**Skills:** data cleaning, R coding, data visualization.
-
-**Tools:** RStudio, dplyr, ggplot2, PowerPoint.
-
-# Courses
-
-### R Programming A-Z
-
-([folder](https://github.com/hrabovskazh/R_course))
-
-My notes and solutions for Udemy course in R basics and data visualization.
-The course provides a good refresher on R's core principles, advantages of vectorized operation and data visualization techniques using ggplot2.
