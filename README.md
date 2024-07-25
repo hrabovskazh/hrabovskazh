@@ -4,5 +4,5 @@ I am a PhD in Finance from Stockholm School of Economics. I have 3+ years of exp
 - 🎨Interests: financial literacy, wealth management, health economics, fashion industry, war in Ukraine.
 - 📫 How to reach me: yevheniia.hrabovska@phdstudent.hhs.se
 
-# Projects
+
 
